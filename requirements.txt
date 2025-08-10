@@ -1,0 +1,9 @@
+streamlit
+sounddevice
+scipy
+numpy
+transformers
+torch
+torchaudio
+gtts
+langdetect
